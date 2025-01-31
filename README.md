@@ -20,7 +20,7 @@ The latest extract of PACT data is stored in CB_FDM_PACT - build date 2024-04-26
 
 
 # Tables
-The Bradford Royal Infirmary FDM (warehouse) is made up of 2 source tables (summarised below and data dictionaries linked) from routinely collected data from Bradford Royal Infirmary for 2279 individuals and their routinely collected data. 
+The PACT  FDM (warehouse) is made up of 2 source tables (summarised below and data dictionaries linked) from routinely collected data from Bradford Royal Infirmary for 2279 individuals and their routinely collected data. 
 
 The dates relevant for the latest build are: 2020-09-17	to	2023-04-19
 
